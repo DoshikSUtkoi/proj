@@ -1,1 +1,1 @@
-﻿int data = 0;
+string data = "Updated";
